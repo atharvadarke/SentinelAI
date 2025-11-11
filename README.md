@@ -6,7 +6,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-green.svg)](https://fastapi.tiangolo.com/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange.svg)](https://ultralytics.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/sentinel-ai?style=social)](https://github.com/yourusername/sentinel-ai)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/sentinel-ai?style=social)](https://github.com/atharvadarke/sentinel-ai)
 
 ---
 
