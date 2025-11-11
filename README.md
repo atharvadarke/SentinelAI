@@ -24,11 +24,11 @@ Whether it's a home, office, or small business **finding the moment someone ente
 [02:11:47] Person detected in backyard (night, IR mode)      
 
 
-Feature,Status
-AI Person Detection (YOLOv8),Done
-Timestamped Event Logging,Done
-FastAPI Backend (Upload & Summarize),Done
+Feature,                                Status
+AI Person Detection (YOLOv8)            Done
+Timestamped Event Logging               Done
+FastAPI Backend (Upload & Summarize)    Done
 Modular Codebase (VS Code + .py),Done
-"MLOps Ready (Docker, GitHub Actions)",In Progress
-Day/Night & Multi-Person Support,In Progress
-Natural Language Summary,Planned
+"MLOps Ready (Docker, GitHub Actions)"  In Progress
+Day/Night & Multi-Person Support        In Progress
+Natural Language Summary                Planned
